@@ -51,7 +51,7 @@
     </div>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">The Cars</a>
+    <a class="nav-link" href="cars.php">The Cars</a>
   </li>
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Media</a>

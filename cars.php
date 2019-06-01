@@ -8,14 +8,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Team Defianz Racing</title>
+    <title>Team Definz Racing</title>
     <style>
-    .color {
+     .color {
       background: #F8F9FA;
     }
-    
-
-
+ 
     
     </style>
   </head>
@@ -36,10 +34,10 @@
 </nav>
 <ul class="nav nav-tabs color">
   <li class="nav-item">
-    <a class="nav-link active" href="#">About</a>
+    <a class="nav-link" href="index.php">About</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="joinUs.php">Join Us</a>
+    <a class="nav-link " href="joinUs.php">Join Us</a>
   </li>
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">The Crew</a>
@@ -50,7 +48,7 @@
     </div>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="cars.php">The Cars</a>
+    <a class="nav-link active" href="cars.php">The Cars</a>
   </li>
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Media</a>
@@ -78,22 +76,95 @@
   
 
 </ul>
-<div id="carouselExampleIndicators" class="carousel slide margin" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="im1.jpg" alt="First slide">
+      <img class="d-block w-100" src="im4.png" alt="2003">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2003</h5>
+      </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="im2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="im5.png" alt="2004">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2004</h5>
+      </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="im3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="im6.png" alt="2005">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2005</h5>
+      </div>
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im7.png" alt="2006">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2006</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im8.png" alt="2007">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2007</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im9.png" alt="2008">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2008</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im10.png" alt="2009">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2009</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im11.png" alt="2010">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2010</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im12.png" alt="2012">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2012</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im13.png" alt="2013">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2013</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im14.png" alt="2014">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2014</h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im15.png" alt="2015">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>2015</h5>
+      </div>
+    </div>
+ 
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -104,28 +175,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<div class="card-group">
-  <div class="card">
     
-    <div class="card-body">
-      <h5 class="card-title">OUR VISION</h5>
-      <p class="card-text">TEAM DEFINZ RACING SEEKS TO INCULCATE LEARNING AND INNOVATION AMONG BUDDING ENGINEERS. TO DO SO THE TEAM STRIVES TOWARD PROFESSIONAL ENGINEERING PRACTICES
-        AND ACTIVE KNOWLEDGE TRANSFER AMONG STUDENT</p>
-        <a href="learnmore.php" class="btn btn-primary">LEARN MORE</a>
-      
-    </div>
-  </div>
-  <div class="card">
-    
-    <div class="card-body">
-      <h5 class="card-title"> OUR MISSON</h5>
-      <p class="card-text">TO BE THE BEST MAN IN INDIA AND TO BE RECOGNIZED GLOBALLY  AS FORCE TO BE RECKONED WITH.</p>
-      
-    </div>
-  </div>
-
-</div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
