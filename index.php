@@ -113,7 +113,7 @@
       <h5 class="card-title">OUR VISION</h5>
       <p class="card-text">TEAM DEFINZ RACING SEEKS TO INCULCATE LEARNING AND INNOVATION AMONG BUDDING ENGINEERS. TO DO SO THE TEAM STRIVES TOWARD PROFESSIONAL ENGINEERING PRACTICES
         AND ACTIVE KNOWLEDGE TRANSFER AMONG STUDENT</p>
-        <a href="#" class="btn btn-primary">LEARN MORE</a>
+        <a href="learnmore.php" class="btn btn-primary">LEARN MORE</a>
       
     </div>
   </div>
