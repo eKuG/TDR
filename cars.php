@@ -42,8 +42,8 @@
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Performance in FSUK 2017</a>
-      <a class="dropdown-item" href="#">Performance in Formaula Bharat 2018</a>
+      <a class="dropdown-item" href="fsuk.php">Performance in FSUK 2017</a>
+      <a class="dropdown-item" href="fb.php">Performance in Formaula Bharat 2018</a>
     </div>
   </li>
   <li class="nav-item dropdown">
