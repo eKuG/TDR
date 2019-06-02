@@ -43,32 +43,27 @@
     <a class="nav-link active" href="joinUs.php">Join Us</a>
   </li>
   <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">The Crew</a>
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">2019</a>
-      <a class="dropdown-item" href="#">2018</a>
-      <a class="dropdown-item" href="#">2017</a>
+      <a class="dropdown-item" href="#">Performance in FSUK 2017</a>
+      <a class="dropdown-item" href="#">Performance in Formaula Bharat 2018</a>
+    </div>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">The Cars</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">DR-16</a>
+      <a class="dropdown-item" href="#">DR-17</a>
+      <a class="dropdown-item" href="cars.php">2003-2015</a>
     </div>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="cars.php">The Cars</a>
+    <a class="nav-link" href="media.php">Media</a>
   </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Media</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Blog</a>
-    </div>
+  <li class="nav-item">
+    <a class="nav-link" href="media.php">Awards</a>
   </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Driverless Car</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">About</a>
-      <a class="dropdown-item" href="#">Joining Driverless</a>
-      <a class="dropdown-item" href="#">Driverless News and Media</a>
-      <a class="dropdown-item" href="#">Driverless Crew</a>
 
-    </div>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="#">Our Sponsors</a>
   </li>
