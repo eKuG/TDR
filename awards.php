@@ -4,10 +4,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
     <title>Team Defianz Racing</title>
     <style>
     .color {
@@ -37,11 +35,12 @@ footer a:hover {
 .ft {
   background: #051C25;
 }
-
     
     </style>
   </head>
-  <body>
+  <body style="
+    background: dimgray;
+">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">TEAM DEFINZ RACING</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,7 +48,6 @@ footer a:hover {
   </button>
   <div class="collapse navbar-collapse" id="navbarText">
     <ul class="navbar-nav mr-auto">
-
     </ul>
     <span class="navbar-text">
       DELHI TECHNOLOGICAL UNIVERSITY 
@@ -59,9 +57,6 @@ footer a:hover {
 <ul class="nav nav-tabs color">
   <li class="nav-item">
     <a class="nav-link " href="index.php">About</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="joinUs.php">Join Us</a>
   </li>
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
@@ -83,23 +78,28 @@ footer a:hover {
   <li class="nav-item">
     <a class="nav-link active" href="awards.php">Awards</a>
   </li>
-
-
   <li class="nav-item">
     <a class="nav-link" href="sponsors.php">Our Sponsors</a>
   </li>
-  
-  
 
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.ketto.org/fundraiser/defianz">Donate</a>
+  </li>
+
+
+  </ul>
+<img src="awards.png" style="
+    display: block;
+    margin-left: auto;
+    margin-right: auto;" >
+  
 </ul>
-
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
 <footer>
   <a href="https://www.facebook.com/teamdefianzracing/"><i class="fa fa-facebook"></i></a>
   <a href="#"><i class="fa fa-twitter"></i></a>
   <a href="#"><i class="fa fa-linkedin"></i></a>
   <a href="https://www.instagram.com/defianz_racing/?hl=en"><i class="fa fa-instagram"></i></a>
-
 </footer>
 <div class="footer-copyright text-center py-3 ft">© 2019 Copyright:
     <a href="#">Team Definz Racing</a>
