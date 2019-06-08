@@ -11,7 +11,7 @@
     <title>Team Defianz Racing</title>
     <style>
     .color {
-      background: #F8F9FA;
+      background: #FFFFFF;
     }
     .png {
       height: 20px;
@@ -43,7 +43,14 @@ footer a:hover {
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#"></a>
+  <a class="navbar-brand" href="#">
+  <div id = "logo">
+  <img src = "unnamed.png" style ="
+  display: block;
+    margin-left: 100%;   
+    width: 60%;">    
+  </div>
+  </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -59,9 +66,6 @@ footer a:hover {
   <li class="nav-item">
     <a class="nav-link active" href="#">About</a>
   </li>
-  <!-- <li class="nav-item">
-    <a class="nav-link" href="joinUs.php">Join Us</a>
-  </li> -->
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
@@ -100,16 +104,29 @@ footer a:hover {
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="im1.jpg" alt="First slide">
+      <img class="d-block w-100" src="Team.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="im2.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="im3.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="a.jpg" alt="Fourth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="b.jpg" alt="Fifth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="im1.jpg" alt="Ninth slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -129,7 +146,13 @@ footer a:hover {
       <h5 class="card-title">OUR VISION</h5>
       <p class="card-text">TEAM DEFINZ RACING SEEKS TO INCULCATE LEARNING AND INNOVATION AMONG BUDDING ENGINEERS. TO DO SO THE TEAM STRIVES TOWARD PROFESSIONAL ENGINEERING PRACTICES
         AND ACTIVE KNOWLEDGE TRANSFER AMONG STUDENT</p>
-        <a href="learnmore.php" class="btn btn-primary">LEARN MORE</a>
+        <p>
+        FOUND IN 2003, TEAM DEFIANZ RACING HAS ASIA’S UNDISPUTEDLY THE BEST AND LONGEST-LIVED LEGACY. WE WERE ASIA’S FIRST TEAM TO UNDERTAKE THIS PROJECT AND HAVE BROUGHT GLORY TO THE NATION SEVERAL TIMES. THE TEAM HAS A WIDE-RANGING ALUMNI NETWORK AND CURRENTLY HAS 30 ACTIVE MEMBERS. 
+</p>
+<p>
+THE TEAM ALSO WORKS IN THE DOMAIN OF ORGANIZATIONAL DESIGN AND DEVELOPMENT AND BELIEVES IN A HIERARCHY-BASED CULTURE. CHANGE IS THE ONLY CONSTANT AND HENCE WITH EVOLUTION, OUR TEAM’S ORGANIZATIONAL ENVIRONMENT IS ALSO ALWAYS EVOLVING
+</p>
+        
       
     </div>
   </div>
@@ -138,7 +161,8 @@ footer a:hover {
     <div class="card-body">
       <h5 class="card-title"> OUR MISSON</h5>
       <p class="card-text">TO BE THE BEST MAN IN INDIA AND TO BE RECOGNIZED GLOBALLY  AS FORCE TO BE RECKONED WITH.</p>
-      
+      <p>
+      TO BE AN ORGANISATION WHICH CAN PUSH INDIVIDUALS TO THEIR LIMITS AND INCULCATE IN THEM THE VALUES OF PERSEVERANCE, HARD WORK, RESEARCH, DESIGN, DEVELOPMENT, PASSION, AND COMMITMENT.      </p>      
     </div>
   </div>
 
