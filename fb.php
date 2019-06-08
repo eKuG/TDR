@@ -62,9 +62,9 @@ footer a:hover {
   <li class="nav-item">
     <a class="nav-link" href="index.php">About</a>
   </li>
-  <li class="nav-item">
+  <!-- <li class="nav-item">
     <a class="nav-link " href="joinUs.php">Join Us</a>
-  </li>
+  </li> -->
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
@@ -89,6 +89,9 @@ footer a:hover {
 
   <li class="nav-item">
     <a class="nav-link" href="sponsors.php">Our Sponsors</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.ketto.org/fundraiser/defianz">Donate</a>
   </li>
 </ul>
 <div class="card-group">

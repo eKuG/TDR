@@ -45,7 +45,7 @@ footer a:hover {
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">TEAM DEFINZ RACING</a>
+  <a class="navbar-brand" href="index.php">TEAM DEFINZ RACING</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -62,9 +62,9 @@ footer a:hover {
   <li class="nav-item">
     <a class="nav-link" href="index.php">About</a>
   </li>
-  <li class="nav-item">
+  <!-- <li class="nav-item">
     <a class="nav-link " href="joinUs.php">Join Us</a>
-  </li>
+  </li> -->
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
@@ -87,6 +87,10 @@ footer a:hover {
 
   <li class="nav-item">
     <a class="nav-link" href="sponsors.php">Our Sponsors</a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.ketto.org/fundraiser/defianz">Donate</a>
   </li>
 
 </ul>

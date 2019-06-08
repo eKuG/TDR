@@ -18,41 +18,13 @@
     .second {
         margin-top: 10px;
     }
-    .color {
-      background: #F8F9FA;
-    }
-    footer {
-  background: #061D25;
-  padding: 10px 0;
-  text-align: center;
-}
-footer a {
-  color: #70726F;
-  font-size: 20px;
-  padding: 10px;
-  border-right: 1px solid #70726F;
-  transition: all .5s ease;
-}
-footer a:first-child {
-  border-left: 1px solid #70726F;
-}
-footer a:hover {
-  color: white;
-}
-.ft {
-  background: #051C25;
-}
-.fo {
-  margin-top: 270px;
-}
-   
 
     
     </style>
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">TEAM DEFINZ RACING</a>
+  <a class="navbar-brand" href="index.php">TEAM DEFINZ RACING</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -65,39 +37,6 @@ footer a:hover {
     </span>
   </div>
 </nav>
-<ul class="nav nav-tabs color">
-  <li class="nav-item">
-    <a class="nav-link" href="index.php">About</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link " href="joinUs.php">Join Us</a>
-  </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="fsuk.php">Performance in FSUK 2017</a>
-      <a class="dropdown-item" href="fb.php">Performance in Formaula Bharat 2018</a>
-    </div>
-  </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">The Cars</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item " href="#">DR-16</a>
-      <a class="dropdown-item" href="#">DR-17</a>
-      <a class="dropdown-item" href="cars.php">2003-2015</a>
-    </div>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="media.php">Media</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="awards.php">Awards</a>
-  </li>
-
-  <li class="nav-item">
-    <a class="nav-link" href="sponsors.php">Our Sponsors</a>
-  </li>
-</ul>
 <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
 <a class="navbar-brand" href="#">
     <img src="logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
@@ -127,17 +66,6 @@ decision making and trade offs amongst cost, functionality, utility, manafactura
 practical applications provides exposure to real world challenges and trains the students to work within a team with a unified direction.
 </p>
 
-</div>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
-<footer class = "fo">
-  <a href="https://www.facebook.com/teamdefianzracing/"><i class="fa fa-facebook"></i></a>
-  <a href="#"><i class="fa fa-twitter"></i></a>
-  <a href="#"><i class="fa fa-linkedin"></i></a>
-  <a href="https://www.instagram.com/defianz_racing/?hl=en"><i class="fa fa-instagram"></i></a>
-
-</footer>
-<div class="footer-copyright text-center py-3 ft">© 2019 Copyright:
-    <a href="#">Team Definz Racing</a>
 </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

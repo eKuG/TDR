@@ -38,34 +38,13 @@ footer a:hover {
   background: #051C25;
   height:100px;;
 }
-footer {
-  background: #061D25;
-  padding: 10px 0;
-  text-align: center;
-}
-footer a {
-  color: #70726F;
-  font-size: 20px;
-  padding: 10px;
-  border-right: 1px solid #70726F;
-  transition: all .5s ease;
-}
-footer a:first-child {
-  border-left: 1px solid #70726F;
-}
-footer a:hover {
-  color: white;
-}
-.ft {
-  background: #051C25;
-}
    
     
     </style>
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">TEAM DEFINZ RACING</a>
+  <a class="navbar-brand" href="index.php">TEAM DEFINZ RACING</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -102,7 +81,7 @@ footer a:hover {
     <a class="nav-link" href="media.php">Media</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="awards.php">Awards</a>
+    <a class="nav-link" href="https://www.facebook.com/teamdefianzracing/">Awards</a>
   </li>
 
   <li class="nav-item">
