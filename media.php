@@ -17,6 +17,27 @@
     .height {
         height: 500px;
     }
+    footer {
+  background: #061D25;
+  padding: 10px 0;
+  text-align: center;
+}
+footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #70726F;
+  transition: all .5s ease;
+}
+footer a:first-child {
+  border-left: 1px solid #70726F;
+}
+footer a:hover {
+  color: white;
+}
+.ft {
+  background: #051C25;
+}
  
     
     </style>
@@ -67,9 +88,6 @@
 
   <li class="nav-item">
     <a class="nav-link" href="sponsors.php">Our Sponsors</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="contact.php">Contact</a>
   </li>
   
   
@@ -147,7 +165,17 @@
   </a>
 </div>
 </div>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
+<footer>
+  <a href="https://www.facebook.com/teamdefianzracing/"><i class="fa fa-facebook"></i></a>
+  <a href="#"><i class="fa fa-twitter"></i></a>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <a href="https://www.instagram.com/defianz_racing/?hl=en"><i class="fa fa-instagram"></i></a>
 
+</footer>
+<div class="footer-copyright text-center py-3 ft">© 2019 Copyright:
+    <a href="#">Team Definz Racing</a>
+ </div>
     
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
