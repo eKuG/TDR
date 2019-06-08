@@ -81,12 +81,16 @@ footer a:hover {
     <a class="nav-link" href="media.php">Media</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="awards.php">Awards</a>
+    <a class="nav-link" href="#">Awards</a>
   </li>
 
 
   <li class="nav-item">
     <a class="nav-link" href="sponsors.php">Our Sponsors</a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.ketto.org/fundraiser/defianz">Donate</a>
   </li>
   
   
