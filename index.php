@@ -43,7 +43,7 @@ footer a:hover {
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">TEAM DEFINZ RACING</a>
+  <a class="navbar-brand" href="#"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -52,7 +52,6 @@ footer a:hover {
 
     </ul>
     <span class="navbar-text">
-      DELHI TECHNOLOGICAL UNIVERSITY 
     </span>
   </div>
 </nav>
@@ -60,9 +59,9 @@ footer a:hover {
   <li class="nav-item">
     <a class="nav-link active" href="#">About</a>
   </li>
-  <li class="nav-item">
+  <!-- <li class="nav-item">
     <a class="nav-link" href="joinUs.php">Join Us</a>
-  </li>
+  </li> -->
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
@@ -81,7 +80,7 @@ footer a:hover {
     <a class="nav-link" href="media.php">Media</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Awards</a>
+    <a class="nav-link" href="awards.php">Awards</a>
   </li>
 
 
