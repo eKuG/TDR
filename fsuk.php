@@ -67,7 +67,7 @@
   </li>
 
   <li class="nav-item">
-    <a class="nav-link" href="#">Our Sponsors</a>
+    <a class="nav-link" href="sponsors.php">Our Sponsors</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#">Contact</a>
