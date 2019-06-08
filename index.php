@@ -81,7 +81,7 @@ footer a:hover {
     <a class="nav-link" href="media.php">Media</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.facebook.com/teamdefianzracing/">Awards</a>
+    <a class="nav-link" href="awards.php">Awards</a>
   </li>
 
 
