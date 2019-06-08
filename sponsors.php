@@ -77,7 +77,7 @@
     <a class="nav-link active" href="sponsors.php">Our Sponsors</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Contact</a>
+    <a class="nav-link" href="contact.php">Contact</a>
   </li>
   
   
