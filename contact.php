@@ -63,8 +63,6 @@
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">The Cars</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">DR-16</a>
-      <a class="dropdown-item" href="#">DR-17</a>
       <a class="dropdown-item" href="cars.php">2003-2015</a>
     </div>
   </li>
