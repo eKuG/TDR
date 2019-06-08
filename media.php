@@ -64,7 +64,7 @@
     <a class="nav-link active" href="media.php">Media</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="media.php">Awards</a>
+    <a class="nav-link" href="https://www.facebook.com/teamdefianzracing/">Awards</a>
   </li>
 
   <li class="nav-item">

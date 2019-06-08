@@ -43,7 +43,7 @@
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Past Performances</a>
     <div class="dropdown-menu">
       <a class="dropdown-item" href="fsuk.php">Performance in FSUK 2017</a>
-      <a class="dropdown-item" href="fb.php">Performance in Formaula Bharat 2018</a>
+      <a class="dropdown-item" href="fb.php ">Performance in Formaula Bharat 2018</a>
     </div>
   </li>
   <li class="nav-item dropdown">
@@ -58,7 +58,7 @@
     <a class="nav-link" href="media.php">Media</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="media.php">Awards</a>
+    <a class="nav-link" href="https://www.facebook.com/teamdefianzracing/">Awards</a>
   </li>
 
   <li class="nav-item">
